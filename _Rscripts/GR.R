@@ -134,12 +134,10 @@ for(n in 1:length(mkts)){
 
 
 
-## Below this is Greg's raw stuff
+## Below this is G raw stuff
 ##############################################################################################################################################
 
-CPN <- read.csv("C:/Users/Greg/OneDrive/Stanford/2018/Thesis/CouponsQ2.csv")
-TKT = read.csv("C:/Users/Greg/OneDrive/Stanford/2018/Thesis/TicketQ2.csv")
-MKT = read.csv("C:/Users/Greg/OneDrive/Stanford/2018/Thesis/MarketQ2.csv")
+
 carriers = c("AA","DL","UA","US","AS","VX","WN","B6","F9","NK")
 
 Q212 = read.csv("E:/New Datasets/2012Q2.csv")
